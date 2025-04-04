@@ -2,7 +2,7 @@
 
 ## Chrome - Desktop
 
-<video src="videos/screencast-chrome-desktop.webm" width="320" height="240" controls></video>
+<video src="videos/screencast-chrome-desktop.mp4" width="320" height="240" controls></video>
 
 ## Chrome - Android
 
@@ -10,7 +10,7 @@
 
 ## Edge - Desktop
 
-<video src="videos/screencast-edge-desktop.webm" width="320" height="240" controls></video>
+<video src="videos/screencast-edge-desktop.mp4" width="320" height="240" controls></video>
 
 ## Firefox - Desktop
 
