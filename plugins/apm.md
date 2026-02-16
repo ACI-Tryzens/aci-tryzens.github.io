@@ -22,7 +22,7 @@
 
 ## Opera - Android
 
-<video src="videos/apm/screencast-opera-android.webm" width="320" height="240" controls></video>
+<video src="videos/apm/screencast-opera-android.mp4" width="320" height="240" controls></video>
 
 ## Safari - Mac
 
