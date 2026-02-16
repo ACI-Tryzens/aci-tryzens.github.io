@@ -6,7 +6,7 @@
 
 ## Chrome - Android
 
-<video src="videos/apm/screencast-chrome-android.webm" width="320" height="240" controls></video>
+<video src="videos/apm/screencast-chrome-android.mp4" width="320" height="240" controls></video>
 
 ## Edge - Desktop
 
@@ -18,7 +18,7 @@
 
 ## Opera -Desktop
 
-<video src="videos/apm/screencast-opera-desktop.webm" width="320" height="240" controls></video>
+<video src="videos/apm/screencast-opera-desktop.mp4" width="320" height="240" controls></video>
 
 ## Opera - Android
 
@@ -26,8 +26,8 @@
 
 ## Safari - Mac
 
-<video src="videos/apm/screencast-safari-mac.wbm" width="320" height="240" controls></video>
+<video src="videos/apm/screencast-safari-mac.mp4" width="320" height="240" controls></video>
 
 ## Safari - iPhone
 
-<video src="videos/apm/screencast-safari-iphone.webm" width="320" height="240" controls></video>
+<video src="videos/apm/screencast-safari-iphone.mp4" width="320" height="240" controls></video>
